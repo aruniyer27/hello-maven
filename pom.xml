@@ -203,9 +203,8 @@
         <version>1.8.5</version>
         <scope>test</scope>
       </dependency>
-    </dependencies>
-           
-     <!-- https://mvnrepository.com/artifact/example-with-known-vulnerabilities/example-with-known-vulnerabilities -->
+             
+        <!-- https://mvnrepository.com/artifact/example-with-known-vulnerabilities/example-with-known-vulnerabilities -->
      <dependency>
         <groupId>example-with-known-vulnerabilities</groupId>
         <artifactId>example-with-known-vulnerabilities</artifactId>
@@ -216,7 +215,11 @@
        <groupId>commons-collections</groupId>
        <artifactId>commons-collections</artifactId>
        <version>3.2</version>
-     </dependency>      
+     </dependency>   
+             
+    </dependencies>
+           
+       
   </dependencyManagement>
 
   <scm>
