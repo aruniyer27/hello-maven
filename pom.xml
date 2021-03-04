@@ -8,8 +8,7 @@
   <packaging>pom</packaging>
   <version>2.0-SNAPSHOT</version>
   <name>AKG Maven Project</name>
-  <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://www.example.com</url>
+  <description>Sample Maven project with a working, deployable site.</description
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
