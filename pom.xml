@@ -215,11 +215,6 @@
     </dependency>
              
         <!-- https://mvnrepository.com/artifact/example-with-known-vulnerabilities/example-with-known-vulnerabilities -->
-     <dependency>
-        <groupId>example-with-known-vulnerabilities</groupId>
-        <artifactId>example-with-known-vulnerabilities</artifactId>
-        <version>1.4.17</version>
-     </dependency>
 
      <dependency>
        <groupId>commons-collections</groupId>
